@@ -4,7 +4,7 @@ exports.getConfig = function(callback) {
 
   var options = { };
   options.url = "http://www.speedtest.net/speedtest-config.php";
-  options.headers = { 'User-Agent': 'Mozilla' }
+  options.headers = { 'User-Agent': 'Mozilla' } // SpeedTest.net wont respond with a body unless we have a known UserAgent
 
   // request(options, function (error, response, body) {
     // if (!error && response.statusCode == 200) {
