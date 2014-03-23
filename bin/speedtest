@@ -1,0 +1,6 @@
+#!/usr/bin/env node
+
+var speedtest = require('../lib/index');
+speedtest.runTest(function(result) {
+  console.log(result);
+});
