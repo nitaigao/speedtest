@@ -11,6 +11,8 @@
   "dependencies": {
     "request": "",
     "xml2js": "",
-    "underscore": ""
+    "underscore": "",
+    "async": "",
+    "randomstring": ""
   }
 }
