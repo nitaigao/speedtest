@@ -1,5 +1,5 @@
 {
-  "name": "speedtest",
+  "name": "speedtest.net",
   "version": "0.1.0",
   "description": "Uses speedtest.net to test internet speed",
   "main": "lib/index.js",
