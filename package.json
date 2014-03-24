@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "description": "Uses speedtest.net to test internet speed",
   "main": "lib/index.js",
+  "bin" : { "speedtest" : "lib/index.js" },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
