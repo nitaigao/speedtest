@@ -9,10 +9,10 @@
   "author": "Nichoals Kostelnik",
   "license": "ISC",
   "dependencies": {
-    "request": "",
-    "xml2js": "",
-    "underscore": "",
-    "async": "",
-    "randomstring": ""
+    "request": "2.34.0",
+    "xml2js": "0.4.1",
+    "underscore": "1.6.0",
+    "async": "0.2.10",
+    "randomstring": "1.0.3"
   }
 }
